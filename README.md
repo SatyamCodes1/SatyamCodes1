@@ -43,7 +43,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/SatyamCodes1/SatyamCodes1/output/snake.svg" alt="Snake animation" />
+![Snake Animation]
+https://github.com/SatyamCodes1/SatyamCodes1/blob/output/github-contribution-grid-snake.svg
 
 ###
 <!---
