@@ -44,6 +44,7 @@
 <br clear="both">
 
 ![Snake Animation]
+github-contribution-grid-snake.svg
 https://github.com/SatyamCodes1/SatyamCodes1/blob/output/github-contribution-grid-snake.svg
 
 ###
