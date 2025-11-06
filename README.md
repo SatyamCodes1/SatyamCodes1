@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SatyamCodes1
-- 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in Data Analyst and Automation.
+- 🌱 I’m currently learning Python,Power BI,Tableau,MS Excel
 - 📫 How to reach me -satyam638643@gmail.com
 
 ###
